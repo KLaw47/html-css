@@ -1,1 +1,1 @@
-console.log("beans")
+console.log("beans");
