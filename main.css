@@ -2,3 +2,26 @@ body {
   background-color: rgb(255, 246, 234);
   color:darkolivegreen
 }
+h2 {
+  color: darkgrey;
+}
+#article1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: solid slateblue 8px
+  
+}
+
+#article2 {
+  font-family: Arial, Helvetica, sans-serif;
+  border: dotted 4px white
+}
+
+#article3 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: blue dashed 7px
+}
+article {
+  padding: 20px;
+  margin: 10px;
+
+}
